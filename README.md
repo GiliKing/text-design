@@ -1,6 +1,6 @@
 # text-design
 
-using javascript event listener to creat a nice transition text
+using javascript event listener to create a nice transition text
 
 link to the page
 
